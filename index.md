@@ -8,8 +8,7 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing [collaborative research](https://cpress.org) and providing
-    services to support the Health Sector.
+- description: Performing services to support the Health Sector.
   heading: Health
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
@@ -31,3 +30,6 @@ menu:
     url: "/"
     weight: 1
 ---
+Here you will find some rather interesting
+
+\[links\](https://cpress.org)
