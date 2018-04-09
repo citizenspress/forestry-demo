@@ -1,0 +1,5 @@
+---
+navigation:
+- url: "/events"
+  weight: 1
+  title: Events
